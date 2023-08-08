@@ -44,7 +44,7 @@ class Crime extends Controller
 
     public function FindFIR()
     {
-        return view('user.find_fir');
+        return view('user.find_gd');
     }
 
     public function FindFIR_robbery()

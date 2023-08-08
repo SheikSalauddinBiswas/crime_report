@@ -74,7 +74,7 @@ Route::group(['middleware' => 'web'], function () {
     Route::post('find_police','Crime@FindPolice');
 
 
-    Route::get('find_fir','Crime@FindFIR');
+    Route::get('find_gd','Crime@FindFIR');
     Route::get('find_fir_robbery','Crime@FindFIR_robbery');
     Route::post('find_firRobbery','SubmitReport@FindbyRand_robbery');
     Route::get('find_fir_mp','Crime@FindFIR_mp');

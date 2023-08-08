@@ -122,18 +122,18 @@
 						</li>
 					
 						<li class="dropdown">
-							 <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-list-alt"></span>&nbsp;Report FIR <span class="caret"></span></a>
+							 <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-list-alt"></span>&nbsp;Report GD <span class="caret"></span></a>
 							<ul class="dropdown-menu">
-                                <li><a href="robbery">Robbery FIR</a></li>
-                                <li><a href="missing_person">Kidnapping FIR</a></li>
-                                <li><a href="abuse">Women/Child Abuse FIR</a></li>
+                                <li><a href="robbery">Robbery GD</a></li>
+                                <li><a href="missing_person">Kidnapping GD</a></li>
+                                <li><a href="abuse">Women/Child Abuse GD</a></li>
 							</ul>
 						</li>
 					
 					<li class="dropdown">
 							<a class="dropdown-toggle" data-toggle="dropdown" href="#"><span class="glyphicon glyphicon-user"></span>&nbsp;User <span class="caret"></span></a>
                             <ul class="dropdown-menu">
-                                <li><a href="find_fir">Find Submited FIR</a></li>
+                                <li><a href="find_gd">Find Submited GD</a></li>
                                 <li><a href="find_police">Find Police Station</a></li>
                             </ul>
                     </li>
